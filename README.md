@@ -22,12 +22,10 @@
 
 You can change these paths in the following sections of the code:
 
-\`\`\`python
 # Defining the path for train and test images
 data_dir_train = pathlib.Path("/your/path/to/Train")
 data_dir_test = pathlib.Path('/your/path/to/Test')
 augmented_data_dir = pathlib.Path("/your/path/to/AugmentedDataset")
-\`\`\`
 
 ## Conclusions
 - **Conclusion 1**: The initial basic model showed significant overfitting, with training accuracy much higher than test accuracy.
