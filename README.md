@@ -25,7 +25,7 @@ You can change these paths in the following sections of the code:
 # Defining the path for train and test images
 data_dir_train = `/content/drive/MyDrive/Dataset/Train`  
 data_dir_test = `/content/drive/MyDrive/Dataset/Test`  
-augmented_data_dir = `content/drive/MyDrive/Dataset/AugmentedDataset`  
+augmented_data_dir = `/content/drive/MyDrive/Dataset/AugmentedDataset`  
 
 ## Conclusions
 - **Conclusion 1**: The initial basic model showed significant overfitting, with training accuracy much higher than test accuracy.
